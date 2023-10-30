@@ -15,7 +15,7 @@ Este repositorio contiene todos los materiales, códigos y recursos utilizados e
 
 ## Recursos
 
-- [Enlace al vídeo en YouTube](URL_del_vídeo)
+https://youtu.be/AGou3z-m8-4
 
 ## Cómo Utilizar este Repositorio
 
